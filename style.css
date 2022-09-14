@@ -121,9 +121,6 @@ body {
   --offset: 90px;
 }
 
-/* .row:nth-child(2n) {
-  translate: 50px;
-} */
 @keyframes loadRow {
   100% {
     translate: 0;
